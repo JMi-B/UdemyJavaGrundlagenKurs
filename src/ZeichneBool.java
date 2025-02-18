@@ -22,6 +22,10 @@ public class ZeichneBool {
 		char varZeichen = '\u00A9'; // Unicode 
 		System.out.println("Das Bild unterlieget dem " + varZeichen);
 		
+		//true = wahr false = nicht wahr
+		boolean userKlick; //Variable deklariert
+		//boolean userKlick = false; //Variable inizialisiert
+		
 	}
 
 }
